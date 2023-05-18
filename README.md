@@ -1,1 +1,1 @@
-# This repository collects our work on subcellular organization modelling
+# This repository collects our work on cryo-electron tomography derived integrative subcellular organization modelling
